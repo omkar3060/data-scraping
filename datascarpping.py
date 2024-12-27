@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 from datetime import timedelta
 
 # YouTube API Key (Replace with your API key)
-API_KEY = "AIzaSyC9qHxl4OYXXkEFJaSlEFSBluaUSZvtl_E"
+API_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
